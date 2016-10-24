@@ -6,7 +6,7 @@ Library Manager Java
 
 
 $ git clone https://github.com/dim4k1993/LibraryManager.git
-greate database MySql neme "library"
+greate database MySql name "library"
 change username and password your own data in class DbConnector 
 ```
 
